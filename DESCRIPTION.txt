@@ -1,0 +1,9 @@
+Visual Scene Graph for PowerPoint. Extracts structured layout data from PPTX files, enabling AI agents to parse element positions, understand spatial relationships, and detect layout patterns. Exposes bounding boxes, z-order, and spatial relations that humans see but machines couldn't access. Built on python-pptx. MIT licensed.
+
+(347 characters)
+
+---
+
+PowerPoint 视觉场景图。从 PPTX 提取结构化布局数据，让 AI 解析元素位置、理解空间关系、识别布局模式。暴露边界框、层级和空间关系——人类能看到但机器 traditionally 无法访问的视觉结构。基于 python-pptx 构建。MIT 许可证。
+
+(347 字符)
